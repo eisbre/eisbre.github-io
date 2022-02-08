@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eisbre.github.io/2022/02/08/BP%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</loc>
+    
+    <lastmod>2022-02-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://eisbre.github.io/2022/01/28/KNN-K-means/</loc>
     
     <lastmod>2022-02-06</lastmod>
@@ -397,6 +404,13 @@
   
   <url>
     <loc>https://eisbre.github.io/tags/K-means/</loc>
+    <lastmod>2022-02-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://eisbre.github.io/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/</loc>
     <lastmod>2022-02-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
